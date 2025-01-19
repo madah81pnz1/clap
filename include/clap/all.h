@@ -5,6 +5,7 @@
 #include "factory/draft/plugin-invalidation.h"
 #include "factory/draft/plugin-state-converter.h"
 
+#include "ext/draft/audio-ports-data-types.h"
 #include "ext/draft/extensible-audio-ports.h"
 #include "ext/draft/gain-adjustment-metering.h"
 #include "ext/draft/mini-curve-display.h"
